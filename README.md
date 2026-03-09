@@ -54,6 +54,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
 </a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-an-thien-bao&layout=compact&theme=tokyonight"/>
+
 <a href="https://tailwindcss.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 </a>
